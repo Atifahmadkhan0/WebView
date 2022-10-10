@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           title: const Text('Web View'),
         ),
         body: WebView(
-          initialUrl: "https://codeseasy.com",
+          initialUrl: "https://amazon.com",
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),
